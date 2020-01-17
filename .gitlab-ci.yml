@@ -1,0 +1,16 @@
+image: node:latest
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  artifacts:
+    paths:
+    - node_modules/
+    - dist/
+  script:
+    - npm config set @sap:registry https://npm.sap.com
+    - npm install
+    - npm run build
+  only:
+    - master
