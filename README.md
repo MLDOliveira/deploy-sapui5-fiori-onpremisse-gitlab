@@ -4,8 +4,8 @@
 Como configurar seu projeto para realizar deploy de uma aplicação sapui5 diretamente no ambiente FIORI on-premisse através do gitlab
 
 ## O que você irá aprender
-* Como fazer build e deploy da sua aplicação SAPUI5 em um ambiente local?
-* Como fazer deploy diretamente no seu ambiente FIORI através de um merge ou commit em seu repositório GIT do GitLab?
+* Como fazer build e deploy da sua aplicação SAPUI5 em um ambiente local.
+* Como fazer deploy diretamente no seu ambiente FIORI através de um merge ou commit em seu repositório GIT do GitLab.
 
 ## Pré-requisitos
 * Dentro do seu ambiente SAP acessar a transação SMICM, ir no menu "Ir Para > Serviços", anote o HOST e a PORTA que estão na linha HTTP para utilizar posteriormente
