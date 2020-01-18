@@ -93,7 +93,7 @@ Para confirmar se o deploy foi realizado com sucesso, acesse o seu ambiente SAP,
 * https://github.com/pfefferf/ui5-nwabap-deployer/blob/master/packages/grunt-nwabap-ui5uploader
 
 
-# EN - Versão em inglês
+# EN - English version
 
 
 
