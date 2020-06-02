@@ -14,7 +14,7 @@ Como configurar seu projeto para realizar deploy de uma aplicação sapui5 diret
 ## Passo a passo
 
 ### 1. Copiando arquivos
-Copie os arquivos .npmrc, Gruntfile.js e .gitlab-ci.yml desse projeto para seu projeto
+Copie os arquivos ".npmrc", "Gruntfile.js", ".gitlab-ci.yml", ".babelrc", "babel.config.js" desse projeto para seu projeto
 
 ### 2. Configurando package.json
 Verifique o arquivo package.json desse projeto e adicione as dependências ao arquivo package.json do seu projeto
